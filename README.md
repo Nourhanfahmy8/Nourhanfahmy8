@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there 👋, I'm Nourhan  
 
-<!--
-**Nourhanfahmy8/Nourhanfahmy8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a 3rd year student passionate about learning and improving my skills in **software development, databases, and data analysis**.  
+💻 Currently working on academic and personal projects in **Python, Java, C++, SQL, and web development (Django)**.  
+🌱 Always exploring new technologies and improving step by step.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Tools
+- **Programming Languages:** Python, Java, C++, SQL  
+- **Web Development:** HTML, CSS, Django  
+- **Databases:** Microsoft SQL Server  
+- **Tools & Platforms:** GitHub, VS Code, IntelliJ, NetBeans, Pycharm
+
+---
+
+### 📌 Featured Projects
+Here are some of the projects I'm working on (more coming soon!):  
+
+- 📚 **Online Library Web App** → A Django-based web app for borrowing and managing books.  
+- 🛒 **Customer Dashboard (Java Swing)** → A desktop application for customers to view and order products.  
+- 🎮 **Game of Life (C++)** → Implementation of Conway’s Game of Life using C++.  
+- ✏️ **Hangman (Java)** → A simple console-based word guessing game in Java.  
+- 🔢 **Number Scrabble (Python)** → A fun number-based game built in Python.  
+
+---
+
+### 📫 Connect with Me
+- [LinkedIn](linkedin.com/in/nourhan-mohammed-b48873318)  
+- 📧 Email: nourhanfahmy8@gmail.com  
+
+---
+
+⭐️ Feel free to check out my repositories and leave feedback!  
