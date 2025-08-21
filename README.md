@@ -27,7 +27,6 @@ Here are some of the projects I'm working on (more coming soon!):
 ---
 
 ### 📫 Connect with Me
-- [LinkedIn](linkedin.com/in/nourhan-mohammed-b48873318)  
 - 📧 Email: nourhanfahmy8@gmail.com  
 
 ---
