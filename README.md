@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Nourhan  
 
-🎓 I'm a 3rd year student passionate about learning and improving my skills in **software development, databases, and data analysis**.  
+🎓 I'm a 3rd year Computer Science student at [Cairo University]. student passionate about learning and improving my skills in **software development, databases, and data analysis**.  
 💻 Currently working on academic and personal projects in **Python, Java, C++, SQL, and web development (Django)**.  
 🌱 Always exploring new technologies and improving step by step.  
 
