@@ -22,7 +22,7 @@ Here are some of the projects I'm working on (more coming soon!):
 - 🎮 [**Game of Life (C++)**](https://github.com/Nourhanfahmy8/Gameoflife) → Implementation of Conway’s Game of Life using C++.  
 - 🎲 [**Board Games (C++)**](https://github.com/Nourhanfahmy8/Board_Games) → A set of board games including Tic Tac Toe variations (pyramid, 5x5, etc.).  
 - 📚 [**Online Library Website**](https://github.com/MennaMohy/OnlineLibraryWebsite) → A Django-based website for borrowing and managing books.  
-- 🛒 [**Suoermarket (Java Swing)**](https://github.com/Shahd132/SupermarketProjectLV) A GUI-based supermarket system connected to a database, built with two                 dashboards: customer and admin dashboards
+- 🛒 [**Supermarket (Java Swing)**](https://github.com/Shahd132/SupermarketProjectLV) A GUI-based supermarket system connected to a database, built with two                 dashboards: customer and admin dashboards
 
 ---
 
