@@ -10,7 +10,7 @@
 - **Programming Languages:** Python, Java, C++, SQL  
 - **Web Development:** HTML, CSS, Django  
 - **Databases:** Microsoft SQL Server  
-- **Tools & Platforms:** GitHub, VS Code, IntelliJ, NetBeans, Pycharm
+- **Tools & Platforms:** GitHub, VS Code, IntelliJ, NetBeans, Pycharm, Excel, Power Bi, Tableau
 
 ---
 
@@ -20,7 +20,7 @@ Here are some of the projects I'm working on (more coming soon!):
 - 🔢 [**Number Scrabble (Python)**](https://github.com/Nourhanfahmy8/Number-Scrabble) → A fun number-based game built in Python.  
 - ✏️ [**Hangman (Java)**](https://github.com/Nourhanfahmy8/Hang_Man_Game) → A simple console-based word guessing game in Java.  
 - 🎮 [**Game of Life (C++)**](https://github.com/Nourhanfahmy8/Gameoflife) → Implementation of Conway’s Game of Life using C++.
-- 📊 [**Superstore Dashboard Project**](https://github.com/Nourhanfahmy8/SuperStore_dashboard_Project) → Tableau dashboards (Overview, Sales, Orders) built using the Superstore US dataset.  
+- 📊 [**Superstore Tableau Dashboard Project**](https://github.com/Nourhanfahmy8/SuperStore_dashboard_Project) → Tableau dashboards (Overview, Sales, Orders) built using the Superstore US dataset.  
 - 🎲 [**Board Games (C++)**](https://github.com/Nourhanfahmy8/Board_Games) → A set of board games including Tic Tac Toe variations (pyramid, 5x5, etc.).  
 - 📚 [**Online Library Website**](https://github.com/MennaMohy/OnlineLibraryWebsite) → A Django-based website for borrowing and managing books.  
 - 🛒 [**Supermarket (Java Swing)**](https://github.com/Shahd132/SupermarketProjectLV) → A GUI-based supermarket system connected to a database, built with two                 dashboards: customer and admin dashboards
